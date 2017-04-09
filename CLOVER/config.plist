@@ -147,7 +147,7 @@
 	<key>KernelAndKextPatches</key>
 	<dict>
 		<key>#FakeCPUID</key>
-		<string>0x010676</string>
+		<string>0x0506e3</string>
 		<key>AppleRTC</key>
 		<true/>
 		<key>AsusAICPUPM</key>
@@ -451,8 +451,10 @@
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
+		<key>Mobile</key>
+		<false/>
 		<key>ProductName</key>
-		<string>iMac14,2</string>
+		<string>MacPro6,1</string>
 		<key>Trust</key>
 		<false/>
 	</dict>
